@@ -42,10 +42,6 @@ To play these games, you’ll need to have **.NET SDK** installed on your machin
 
 - **.NET SDK**: Make sure you have the latest version installed. [Download .NET SDK here](https://dotnet.microsoft.com/download).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Enjoy the games, and have fun catching eggs, flying, and fighting zombies! 🎉
